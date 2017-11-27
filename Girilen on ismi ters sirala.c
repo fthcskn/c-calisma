@@ -1,5 +1,5 @@
 /*
-Girilen 10 ismi tersten sıralayan program.
+Girilen 10 ismi karakter sayısı en büyükten en kücüğe doğru sıralayan program.
 */
 #include <stdio.h>
 #include <conio.h>
